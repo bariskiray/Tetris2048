@@ -1,1 +1,1 @@
-Tetris 2048 project with using StdDrae lib.
+Tetris 2048 project with using StdDraw lib.
